@@ -1,4 +1,4 @@
-# Frank's Field Guide to Santa Fe
+# Frank's Field Notes to Santa Fe
 
 **The things you should know before you call Santa Fe home.**
 
@@ -8,7 +8,7 @@ Practical, independent-minded local field notes on moving, neighborhoods, housin
 
 | Destination | Link |
 |---|---|
-| Frank's Field Guide | [Read the Field Guide](https://itsfrankom.github.io/fieldguide/) *(available after GitHub Pages is enabled)* |
+| Frank's Field Notes | [Read the Field Notes](https://itsfrankom.github.io/fieldguide/) *(available after GitHub Pages is enabled)* |
 | Santa Fe Frank | [santafefrank.com](https://santafefrank.com) |
 | Instagram | [@santafefrank](https://www.instagram.com/santafefrank/) |
 | LinkedIn | [Frank O'Mahony](https://www.linkedin.com/in/itsfrankomahony/) |
